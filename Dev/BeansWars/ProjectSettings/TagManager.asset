@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Yellow
+  - Green
+  - Environment
+  - Ground
+  - YellowBase
+  - GreenBase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Unwalkable
+  - Touch
+  - 
+  - 
+  - Unit
+  - Model
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bg
+    uniqueID: 1333966245
+    locked: 0
+  - name: UnderUnit
+    uniqueID: 1878199307
+    locked: 0
+  - name: Map
+    uniqueID: 1525679001
+    locked: 0
+  - name: Unit
+    uniqueID: 4096044637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Paticle
+    uniqueID: 2684275883
+    locked: 0
+  - name: UI
+    uniqueID: 2518184881
+    locked: 0
+  - name: UIPaticle
+    uniqueID: 4134068079
+    locked: 0

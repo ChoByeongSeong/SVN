@@ -1,0 +1,8 @@
+﻿[
+{"id":"0","name":"Warrior","thum_name":"unit_thum00","display_name":"전사콩","hp":"20","attack_damage":"20","attack_speed":"1","attack_range":"1","armor":"0","move_speed":"3","mass":"1","cost":"40","type":"0","target_priority":"-1"},
+{"id":"1","name":"Defender","thum_name":"unit_thum01","display_name":"방패콩","hp":"200","attack_damage":"0","attack_speed":"0","attack_range":"5","armor":"0","move_speed":"2","mass":"20","cost":"150","type":"0","target_priority":"-1"},
+{"id":"2","name":"Charger","thum_name":"unit_thum02","display_name":"돌격콩","hp":"200","attack_damage":"50","attack_speed":"1.2","attack_range":"1.2","armor":"0","move_speed":"2","mass":"5","cost":"150","type":"0","target_priority":"1"},
+{"id":"3","name":"Archer","thum_name":"unit_thum03","display_name":"궁수콩","hp":"20","attack_damage":"50","attack_speed":"0.8","attack_range":"8","armor":"0","move_speed":"2.2","mass":"1","cost":"60","type":"1","target_priority":"-1"},
+{"id":"4","name":"Catapult","thum_name":"unit_thum04","display_name":"투석콩","hp":"20","attack_damage":"100","attack_speed":"2.5","attack_range":"10","armor":"0","move_speed":"2","mass":"10","cost":"150","type":"2","target_priority":"-1"},
+{"id":"5","name":"Golem","thum_name":"unit_thum05","display_name":"골렘콩","hp":"500","attack_damage":"12","attack_speed":"2.5","attack_range":"1.6","armor":"0","move_speed":"2","mass":"20","cost":"500","type":"3","target_priority":"-1"},
+{"id":"6","name":"Warlock","thum_name":"unit_thum06","display_name":"법사콩","hp":"20","attack_damage":"5","attack_speed":"1.5","attack_range":"6","armor":"0","move_speed":"1","mass":"1","cost":"350","type":"3","target_priority":"-1"}]

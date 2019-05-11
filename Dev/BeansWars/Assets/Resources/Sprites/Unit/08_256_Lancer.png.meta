@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: c18b4861ffe42bb4fad255976f3cde24
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 08_256_Lancer_0
+    21300002: 08_256_Lancer_2
+    21300004: 08_256_Lancer_3
+    21300006: 08_256_Lancer_4
+    21300008: 08_256_Lancer_5
+    21300010: 08_256_Lancer_6
+    21300012: 08_256_Lancer_7
+    21300014: 08_256_Lancer_8
+    21300016: 08_256_Lancer_9
+    21300018: 08_256_Lancer_10
+    21300020: 08_256_Lancer_11
+    21300022: 08_256_Lancer_12
+    21300024: 08_256_Lancer_13
+    21300026: 08_256_Lancer_14
+    21300028: 08_256_Lancer_15
+    21300030: 08_256_Lancer_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 08_256_Lancer_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 107
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3537850ff5b304ab88c076bda033ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 224
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288e14af2cc8dc40803cf1c72134eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 82
+        width: 34
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c5cedb6c638a40bd8a5584a96eeba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 82
+        width: 33
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6bcf9e31d03b45881bac22a2ec277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 145
+        width: 107
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71daee911d3c44d98665574d0c496b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.82149166, y: 0.28232384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a0f44fc2f80746ab03dcc1b4a99fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 111
+        width: 44
+        height: 27
+      alignment: 9
+      pivot: {x: 0.12797078, y: 0.1646169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbbd2f0c36d55b498c85224eaea20b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 33
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6055403, y: 0.23878843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e13bb218f3aa429f320592bce80b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 7
+        height: 39
+      alignment: 9
+      pivot: {x: 0.35073635, y: 0.87507397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86cba7a2096df4482d40f306d5276c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 55
+        width: 11
+        height: 45
+      alignment: 9
+      pivot: {x: 0.2783654, y: 0.8947206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8344bafce289c749875a4ec9190c8b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 41
+        width: 63
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7708866, y: 0.4623479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99bb367df5f344b84d61fa03a8bfd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 10
+        height: 33
+      alignment: 9
+      pivot: {x: 0.56965655, y: 0.879945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8b53161a83b242a5aa1c39ea963d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 10
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4651718, y: 0.85916686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4e6bb9dfba1d459a2649cba9b04c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 8
+        height: 27
+      alignment: 9
+      pivot: {x: 0.58707047, y: 0.83538395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167cae195bd8bcd4db8768b5a1779d29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 9
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46130288, y: 0.8773065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb3ac78b72fd24398092e1800c4e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08_256_Lancer_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 38
+        height: 20
+      alignment: 9
+      pivot: {x: 0.078394435, y: 0.2736167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3683290978984e82282cfc16ae6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0f990360279248e47861566b6a4d978e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

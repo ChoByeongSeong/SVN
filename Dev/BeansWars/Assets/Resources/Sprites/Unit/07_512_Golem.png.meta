@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: cf196888207c0ba479f7b6ac69f2b53a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 07_512_Golem_0
+    21300002: 07_512_Golem_1
+    21300004: 07_512_Golem_2
+    21300006: 07_512_Golem_3
+    21300008: 07_512_Golem_4
+    21300010: 07_512_Golem_5
+    21300012: 07_512_Golem_6
+    21300014: 07_512_Golem_7
+    21300016: 07_512_Golem_8
+    21300018: 07_512_Golem_9
+    21300020: 07_512_Golem_10
+    21300022: 07_512_Golem_11
+    21300024: 07_512_Golem_12
+    21300026: 07_512_Golem_15
+    21300028: 07_512_Golem_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 07_512_Golem_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 412
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37333f477099cbe44973055128c02166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 303
+        width: 217
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6022263, y: 0.2250467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a27f774a0124a48b8102fe6a076792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 378
+        width: 148
+        height: 121
+      alignment: 9
+      pivot: {x: 0.3017642, y: 0.51182795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ef1ca1cf8f104f9c09b44a5d719ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 295
+        width: 105
+        height: 109
+      alignment: 9
+      pivot: {x: 0.7112678, y: 0.51312983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb5116e7b9bbc54b8593a1059342f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 286
+        width: 57
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5125545, y: 0.7168436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0099e7e8c2c9845a133bc99edf45bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 291
+        width: 73
+        height: 69
+      alignment: 9
+      pivot: {x: 0.39217302, y: 0.6970449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af8bfe046476b48a244bdc1a7c4804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 203
+        width: 89
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d596d870fc786e41972bf53d839f566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 203
+        width: 89
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32198744563b10f4f8eb8e3068aa9998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 131
+        width: 107
+        height: 139
+      alignment: 9
+      pivot: {x: 0.6136911, y: 0.86036575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6850213e662b044aafbc40b1d7f7d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 110
+        width: 138
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5933371, y: 0.87707394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f7a2a347d29a49b2c0ee9bcb3dbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 107
+        width: 81
+        height: 76
+      alignment: 9
+      pivot: {x: 0.59717816, y: 0.5753244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4b342deef4974b96d83703d9fe083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 19
+        width: 70
+        height: 86
+      alignment: 9
+      pivot: {x: 0.70445293, y: 0.7912256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36d6793226fe244eb161f3d22d02689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 33
+        width: 88
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4837369, y: 0.69792694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c6011273d5a949af7176b695d672b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 16
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b16cee1af15747973e49551c0a3eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07_512_Golem_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de3cfe08d13884b91246647e31423c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4b5e7bfae91c02d4d943bfb6d90ebdae
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

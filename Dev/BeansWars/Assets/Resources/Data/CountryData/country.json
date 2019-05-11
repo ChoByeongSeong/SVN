@@ -1,0 +1,230 @@
+﻿[
+    {
+        "id": 0,
+        "language": "Afrikaans",
+        "convert_language": "AF",
+        "thum_name": "af"
+    },
+    {
+        "id": 1,
+        "language": "Arabic",
+        "convert_language": "DZ",
+        "thum_name": "dz"
+    },
+    {
+        "id": 2,
+        "language": "Basque",
+        "convert_language": "ES",
+        "thum_name": "es"
+    },
+    {
+        "id": 3,
+        "language": "Belarusian",
+        "convert_language": "BY",
+        "thum_name": "by"
+    },
+    {
+        "id": 4,
+        "language": "Bulgarian",
+        "convert_language": "BG",
+        "thum_name": "bg"
+    },
+    {
+        "id": 5,
+        "language": "Catalan",
+        "convert_language": "AD",
+        "thum_name": "ad"
+    },
+    {
+        "id": 6,
+        "language": "Chinese",
+        "convert_language": "CN",
+        "thum_name": "cn"
+    },
+    {
+        "id": 7,
+        "language": "Czech",
+        "convert_language": "CZ",
+        "thum_name": "cz"
+    },
+    {
+        "id": 8,
+        "language": "Danish",
+        "convert_language": "DK",
+        "thum_name": "dk"
+    },
+    {
+        "id": 9,
+        "language": "Dutch",
+        "convert_language": "SR",
+        "thum_name": "sr"
+    },
+    {
+        "id": 10,
+        "language": "English",
+        "convert_language": "US",
+        "thum_name": "us"
+    },
+    {
+        "id": 11,
+        "language": "Estonian",
+        "convert_language": "EE",
+        "thum_name": "ee"
+    },
+    {
+        "id": 12,
+        "language": "Faroese",
+        "convert_language": "DK",
+        "thum_name": "dk"
+    },
+    {
+        "id": 13,
+        "language": "Finnish",
+        "convert_language": "FI",
+        "thum_name": "fi"
+    },
+    {
+        "id": 14,
+        "language": "French",
+        "convert_language": "FR",
+        "thum_name": "fr"
+    },
+    {
+        "id": 15,
+        "language": "German",
+        "convert_language": "DE",
+        "thum_name": "de"
+    },
+    {
+        "id": 16,
+        "language": "Greek",
+        "convert_language": "GR",
+        "thum_name": "gr"
+    },
+    {
+        "id": 17,
+        "language": "Hebrew",
+        "convert_language": "IL",
+        "thum_name": "il"
+    },
+    {
+        "id": 18,
+        "language": "Icelandic",
+        "convert_language": "IS",
+        "thum_name": "is"
+    },
+    {
+        "id": 19,
+        "language": "Indonesian",
+        "convert_language": "ID",
+        "thum_name": "id"
+    },
+    {
+        "id": 20,
+        "language": "Italian",
+        "convert_language": "IT",
+        "thum_name": "it"
+    },
+    {
+        "id": 21,
+        "language": "Japanese",
+        "convert_language": "JP",
+        "thum_name": "jp"
+    },
+    {
+        "id": 22,
+        "language": "Korean",
+        "convert_language": "KR",
+        "thum_name": "kr"
+    },
+    {
+        "id": 23,
+        "language": "Latvian",
+        "convert_language": "LV",
+        "thum_name": "lv"
+    },
+    {
+        "id": 24,
+        "language": "Lithuanian",
+        "convert_language": "LT",
+        "thum_name": "lt"
+    },
+    {
+        "id": 25,
+        "language": "Norwegian",
+        "convert_language": "NO",
+        "thum_name": "no"
+    },
+    {
+        "id": 26,
+        "language": "Polish",
+        "convert_language": "PL",
+        "thum_name": "pl"
+    },
+    {
+        "id": 27,
+        "language": "Portuguese",
+        "convert_language": "PT",
+        "thum_name": "pt"
+    },
+    {
+        "id": 28,
+        "language": "Romanian",
+        "convert_language": "RO",
+        "thum_name": "ro"
+    },
+    {
+        "id": 29,
+        "language": "Russian",
+        "convert_language": "RU",
+        "thum_name": "ru"
+    },
+    {
+        "id": 30,
+        "language": "Slovak",
+        "convert_language": "HR",
+        "thum_name": "hr"
+    },
+    {
+        "id": 31,
+        "language": "Spanish",
+        "convert_language": "AR",
+        "thum_name": "ar"
+    },
+    {
+        "id": 32,
+        "language": "Swedish",
+        "convert_language": "SE",
+        "thum_name": "se"
+    },
+    {
+        "id": 33,
+        "language": "Thai",
+        "convert_language": "TH",
+        "thum_name": "th"
+    },
+    {
+        "id": 34,
+        "language": "Turkish",
+        "convert_language": "TR",
+        "thum_name": "tr"
+    },
+    {
+        "id": 35,
+        "language": "Ukrainian",
+        "convert_language": "UA",
+        "thum_name": "ua"
+    },
+    {
+        "id": 36,
+        "language": "Vietnamese",
+        "convert_language": "VN",
+        "thum_name": "vn"
+    },
+    {
+        "id": 37,
+        "language": "Unknown",
+        "convert_language": "UK",
+        "thum_name": "uk"
+    }
+]
